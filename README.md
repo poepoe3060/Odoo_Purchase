@@ -1,2 +1,2 @@
 # Odoo-Purchase
-it will be included some customized modules for Odoo Purchase.
+It includes some customized modules for Odoo Purchase.
